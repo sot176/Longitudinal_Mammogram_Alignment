@@ -134,6 +134,7 @@ Run `scripts/test_risk_NoAlign.sh`, `scripts/test_risk_FeatAlign.sh`, `scripts/t
 
 ## Citation
 If you use this code or models in your scientific work, please kindly cite our paper: 
+```bibtex
 @inproceedings{,
   title={Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction},
   author={Thrun, Solveig and Hansen, Stine and Sun, Zijun and Blum, Nele and Salahuddin A., Suaiba  and Wickstrøm, Kristoffer and Wetzer, Elisabeth and Jenssen, Robert and Stille, Maik and Kampffmeyer, Michael},
@@ -142,7 +143,3 @@ If you use this code or models in your scientific work, please kindly cite our p
   year={2025},
   organization={Springer}
 }
-
-
-
-
