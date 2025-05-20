@@ -69,7 +69,7 @@ performance
   → Image-level alignment is superior to representation-level alignment leading to better risk prediction performance
 
 <p align="center">
-  <img src="Figures/Table.png" alt="Image 1" width="700"/>
+  <img src="Figures/Table_new.png" alt="Image 1" width="700"/>
 </p>
 <p align="center">
   <em>1–5 Year Breast Cancer Risk Prediction of different alignment methods: C-index and AUC with 95% CI in parentheses.</em>
