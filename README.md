@@ -143,7 +143,3 @@ If you use this code or models in your scientific work, please kindly cite our p
   year={2025},
   organization={Springer}
 }
-
-
-
-
