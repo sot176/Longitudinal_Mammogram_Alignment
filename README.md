@@ -1,5 +1,5 @@
 # Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction
-This is the code for our MICCAI 2025 paper. For more details, please refer to our paper.
+This is the code for our MICCAI 2025 paper. For more details, please refer to our paper. Preprint available at: https://arxiv.org/abs/2506.19363
 
 ## Table of Contents
 1. [Introduction](#introduction)
