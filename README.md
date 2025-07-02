@@ -57,7 +57,7 @@ We compare different explicit alignment strategies to assess their impact on ris
 </div>
 
 ## Datasets
-We used two wo large, publicly available mammography datasets :
+We used two large, publicly available mammography datasets :
 - **Emory Breast Imaging Dataset (EMBED)**: https://aws.amazon.com/marketplace/pp/prodview-unw4li5rkivs2#overview}
 - **Cohort of Screen-Aged Women Case Control (CSAW-CC)**: https://snd.se/en/catalogue/dataset/2021-204-1
 
