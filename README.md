@@ -45,11 +45,11 @@ We compare different explicit alignment strategies to assess their impact on ris
     </tr>
     <tr>
       <td align="center">
-        <img src="Figures/ImgFeatAlign.png" alt="Image 3" width="320"/><br>
+        <img src="Figures/ImgAlign.png" alt="Image 3" width="320"/><br>
         <em>(c) ImgAlign</em>
       </td>
       <td align="center">
-        <img src="Figures/ImgAlign.png" alt="Image 4" width="390"/><br>
+        <img src="Figures/ImgFeatAlign.png" alt="Image 4" width="390"/><br>
         <em>(d) ImgFeatAlign</em>
       </td>
     </tr>
